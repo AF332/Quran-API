@@ -1,5 +1,3 @@
-# Quran-API
-
 # Quran API Data Extraction
 
 ## Overview
